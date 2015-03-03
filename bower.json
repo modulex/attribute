@@ -8,7 +8,7 @@
         "!index.js"
     ],
     "devDependencies": {
-        "modulex": "*",
+        "modulex": "modulex/modulex#*",
         "modulex-ua": "modulex/ua#1.x",
         "modulex-feature": "modulex/feature#1.x"
     },
