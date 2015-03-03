@@ -1,11 +1,5 @@
 {
     "name": "modulex-attribute",
-    "author": "yiminghe <yiminghe@gmail.com>",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "http://github.com/kissyteam/attribute.git"
-    },
     "ignore": [
         "**/*",
         "!build/**/*",
@@ -15,11 +9,11 @@
     ],
     "devDependencies": {
         "modulex": "*",
-        "modulex-ua": "1.x",
-        "modulex-feature": "1.x"
+        "ua": "modulex/ua#1.x",
+        "feature": "modulex/feature#1.x"
     },
     "dependencies": {
-        "modulex-util": "1.x",
-        "modulex-event-custom": "1.x"
+        "util": "modulex/util#1.x",
+        "event-custom": "modulex/event-custom#1.x"
     }
 }
