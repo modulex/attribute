@@ -9,11 +9,11 @@
     ],
     "devDependencies": {
         "modulex": "*",
-        "ua": "modulex/ua#1.x",
-        "feature": "modulex/feature#1.x"
+        "modulex-ua": "modulex/ua#1.x",
+        "modulex-feature": "modulex/feature#1.x"
     },
     "dependencies": {
-        "util": "modulex/util#1.x",
-        "event-custom": "modulex/event-custom#1.x"
+        "modulex-util": "modulex/util#1.x",
+        "modulex-event-custom": "modulex/event-custom#1.x"
     }
 }
